@@ -2,7 +2,7 @@
 name = "hexlet-code"
 version = "0.1.0"
 description = ""
-authors = ["Yulia Surikova <shprovar@gmail.com>"]
+authors = ["Nadezhda Morshchakova <sukhovanadejda@yandex.ru>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
